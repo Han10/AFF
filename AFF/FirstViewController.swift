@@ -12,6 +12,8 @@ class FirstViewController: UIViewController {
     
     @IBOutlet weak var Collection: UICollectionView!
     
+    @IBOutlet weak var some: UICollectionViewCell!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
